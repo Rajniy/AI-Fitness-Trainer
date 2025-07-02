@@ -61,9 +61,9 @@
    1. Run the project
    2. You'll be prompted to enter your name
    3. The system will:
-     - Create a folder for your images
-     - Guide you through capturing training images
-     - Store these for future recognition
+      - Create a folder for your images
+      - Guide you through capturing training images
+      - Store these for future recognition
 
 7. Usage Instructions
    1. The system will:

@@ -42,9 +42,8 @@
    - Works on **Windows**, **macOS**, and **Linux**
 
 ### Installation & Setup
-1. **Open Terminal** in the project folder  
-
-2. **Create and activate a virtual environment**  
+1. **Open Terminal** in the project folder
+2. **Create and activate a virtual environment**
 
        python -m venv .venv
        .venv\Scripts\activate    # For Windows

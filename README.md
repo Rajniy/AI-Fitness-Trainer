@@ -16,7 +16,7 @@ Built with:
 
 ---
 
-## Features
+## 🎯 Features
 
 - Real-time face recognition for personalized workout tracking
 - Accurate pose detection and angle-based rep counting
@@ -26,7 +26,7 @@ Built with:
 
 ---
 
-## How to Download This Project
+## ⬇️ How to Download This Project
 
 1. Go to the GitHub repository
 2. Click the green **"Code"** button and choose **"Download ZIP"**
@@ -34,14 +34,14 @@ Built with:
 
 ---
 
-## Setup Instructions
+## 🛠 Setup Instructions
 
 ### Prerequisites
    - Python **3.9** or higher  
    - A working webcam  
    - Works on **Windows**, **macOS**, and **Linux**
 
-### 🛠 Installation & Setup
+### Installation & Setup
 1. **Open Terminal** in the project folder  
 
 2. **Create and activate a virtual environment**  

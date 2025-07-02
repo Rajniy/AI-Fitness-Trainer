@@ -67,9 +67,9 @@
 
 6. Usage Instructions
    1. The system will:
-   - Recognize your face (if trained)
-   - Track your left arm for bicep curls
-   - Count a rep when your elbow angle drops below 36°
+      - Recognize your face (if trained)
+      - Track your left arm for bicep curls
+      - Count a rep when your elbow angle drops below 36°
    2. Controls:
-   - Spacebar: Toggle continuous image capture (during training)
-   - 'q': Quit the application
+      - Spacebar: Toggle continuous image capture (during training)
+      - 'q': Quit the application

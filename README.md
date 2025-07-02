@@ -52,11 +52,11 @@ Built with:
 
 3.Install Required Packages
    
-     pip install opencv-python face_recognition mediapipe numpy
+        pip install opencv-python face_recognition mediapipe numpy
 
 4.Run the Project
    
-     python Main.py
+        python Main.py
 
 5.📷 Preparing Face Database
 When you run the project for the first time:

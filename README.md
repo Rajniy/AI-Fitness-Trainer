@@ -34,9 +34,9 @@ Built with:
 
 ---
 
-## 🧪 Setup Instructions
+## Setup Instructions
 
-### ✅ Prerequisites
+### Prerequisites
    - Python **3.9** or higher  
    - A working webcam  
    - Works on **Windows**, **macOS**, and **Linux**

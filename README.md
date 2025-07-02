@@ -61,11 +61,11 @@
    When you run the project for the first time:
    1.You'll be prompted to enter your name
    2.The system will:
-   - Create a folder for your images
-   - Guide you through capturing training images
-   - Store these for future recognition
+     - Create a folder for your images
+     - Guide you through capturing training images
+     - Store these for future recognition
 
-6. Usage Instructions
+7. Usage Instructions
    1. The system will:
       - Recognize your face (if trained)
       - Track your left arm for bicep curls

@@ -49,28 +49,27 @@
        .venv\Scripts\activate    # For Windows
        source .venv/bin/activate # For macOS/Linux
 
-3.Install Required Packages
+3. Install Required Packages
    
         pip install opencv-python face_recognition mediapipe numpy
 
-4.Run the Project
-   
+4. Run the Project
+ 
         python Main.py
 
-5.📷 Preparing Face Database
-When you run the project for the first time:
-1.You'll be prompted to enter your name
-2.The system will:
-- Create a folder for your images
-- Guide you through capturing training images
-- Store these for future recognition
+5. Preparing Face Database
+   When you run the project for the first time:
+   1.You'll be prompted to enter your name
+   2.The system will:
+   - Create a folder for your images
+   - Guide you through capturing training images
+   - Store these for future recognition
 
-6.Usage Instructions
-  
-1. The system will:
-- Recognize your face (if trained)
-- Track your left arm for bicep curls
-- Count a rep when your elbow angle drops below 36°
-2. Controls:
-- Spacebar: Toggle continuous image capture (during training)
-- 'q': Quit the application
+6. Usage Instructions
+   1. The system will:
+   - Recognize your face (if trained)
+   - Track your left arm for bicep curls
+   - Count a rep when your elbow angle drops below 36°
+   2. Controls:
+   - Spacebar: Toggle continuous image capture (during training)
+   - 'q': Quit the application

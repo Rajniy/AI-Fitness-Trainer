@@ -36,37 +36,42 @@ Built with:
 
 ## 🧪 Setup Instructions
 
-1.Prerequisites
-   - Python 3.9 (more suitable) or higher
-   - Webcam
-   - Windows/macOS/Linux system
+### ✅ Prerequisites
+   - Python **3.9** or higher  
+   - A working webcam  
+   - Works on **Windows**, **macOS**, and **Linux**
 
-2.Open Terminal in the Project Folder
+### 🛠 Installation & Setup
+1. **Open Terminal** in the project folder  
 
-3.Create and Activate Virtual Environment
-     python -m venv .venv
-     .venv\Scripts\activate
+2. **Create and activate a virtual environment**  
 
-4.Install Required Packages
+       python -m venv .venv
+       .venv\Scripts\activate    # For Windows
+       source .venv/bin/activate # For macOS/Linux
+
+3.Install Required Packages
+   
      pip install opencv-python face_recognition mediapipe numpy
 
-5.Run the Project
+4.Run the Project
+   
      python Main.py
 
-6.Prepare Face Database
-     1. Run the project
-     2. Enter your name when prompted
-     3. The script will:
-         - Create a folder for your images
-         - Guide you through capturing training images
-         - Store these for future recognition
+5.📷 Preparing Face Database
+When you run the project for the first time:
+1.You'll be prompted to enter your name
+2.The system will:
+- Create a folder for your images
+- Guide you through capturing training images
+- Store these for future recognition
 
-7.Usage Instructions
-
-     1. The system will:
-         - Recognize your face (if trained)
-         - Track your left arm for bicep curls
-         - Count reps when your elbow angle goes below 36°
-     2. Controls:
-         - Spacebar: Toggle continuous image capture (during training)
-         - 'q': Quit the application
+6.Usage Instructions
+  
+1. The system will:
+- Recognize your face (if trained)
+- Track your left arm for bicep curls
+- Count a rep when your elbow angle drops below 36°
+2. Controls:
+- Spacebar: Toggle continuous image capture (during training)
+- 'q': Quit the application

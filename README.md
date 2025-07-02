@@ -58,9 +58,9 @@
         python Main.py
 
 5. Preparing Face Database
-   When you run the project for the first time:
-   1.You'll be prompted to enter your name
-   2.The system will:
+   1. Run the project
+   2. You'll be prompted to enter your name
+   3. The system will:
      - Create a folder for your images
      - Guide you through capturing training images
      - Store these for future recognition

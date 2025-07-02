@@ -1,12 +1,12 @@
 # AI Fitness Trainer with Face Recognition & Pose Estimation
 
-This is a Python-based **AI Fitness Trainer** that uses your webcam to:
+🤖 This is a Python-based **AI Fitness Trainer** that uses your webcam to:
 
 - Recognize your face using pre-captured images
 - Detect your body pose in real time using MediaPipe
 - Count repetitions of exercises like **arm curls** using joint angle calculations
 
-Built with:
+💻 Built with:
 
 - OpenCV for webcam and image processing
 - MediaPipe for pose estimation
